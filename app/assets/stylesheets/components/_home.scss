@@ -1,0 +1,13 @@
+.info_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px 0px;
+
+  a{
+    color: white;
+    &:hover {
+      color: #A34B00;
+    }
+  }
+}

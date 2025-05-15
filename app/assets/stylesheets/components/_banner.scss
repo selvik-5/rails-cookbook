@@ -1,0 +1,11 @@
+.banner {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  h1, h3 {
+    color: white;
+  }
+}
